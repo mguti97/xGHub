@@ -5,5 +5,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2404.08401-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2404.08401v2)
 [![Conference](https://img.shields.io/badge/Preprint-SSRN-6b8bc7.svg?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998149)
 
-![](/figures/sample.gif)
+![](figures/sample.gif)
 </div>
