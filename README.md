@@ -24,7 +24,7 @@ Two top-level directories: `labels/` for per-shot metadata and `videos/` for the
 | Field | Type | Description |
 |---|---|---|
 | `is_goal` | bool | Whether the shot resulted in a goal |
-| `mirror_flag` | bool | Whether the clip was horizontally flipped for augmentation |
+| `mirror_flag` | bool | Whether the clip was horizontally flipped for left-right correction |
 | `video_width` | int | Frame width in pixels |
 | `video_height` | int | Frame height in pixels |
 | `angle_to_goal` | float (°) | Horizontal angle from shooter to goal centre |
